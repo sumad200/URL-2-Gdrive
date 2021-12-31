@@ -12,4 +12,10 @@ The files are directly downloaded to your google drive using high speed google s
 ### Notebook Link: ### 
 https://colab.research.google.com/drive/1hyyrdbJTrMERpBUqXIsDl5BRzzBGntg_?usp=sharing 
 
-### You can fork the notebook by opening the above link navigate to <span style="color:blue"> File -> Save a Copy in Drive </span> and edit it as per your liking, open an Issue if you have any improvements, suggestions ###
+
+### You can fork the notebook by visiting the above link navigating to ### 
+```
+File -> Save a Copy in Drive
+``` 
+### and edit it as per your liking ###
+### Feel free to open an Issue if you have any improvements,suggestions or problems ###
