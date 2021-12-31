@@ -3,3 +3,13 @@ A simple, interactive and easy to follow colab notebook to download files direct
 
 
 # ⚠ This notebook is designed to work on Google Colab only ⚠ #
+
+## Why Use this ? ##
+The files are directly downloaded to your google drive using high speed google servers without any 3rd party service.
+
+## Clear usage instructions are provided in the notebook itself ##
+
+### Notebook Link: ### 
+https://colab.research.google.com/drive/1hyyrdbJTrMERpBUqXIsDl5BRzzBGntg_?usp=sharing 
+
+### You can fork the notebook by opening the above link navigate to File -> Save a Copy in Drive and edit it as per your liking, open an Issue if you have any improvements, suggestions ###
